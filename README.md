@@ -16,7 +16,8 @@
 ![MongoDB](https://img.shields.io/badge/mongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white
 ) ![PostgreSQL](https://img.shields.io/badge/postgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white
 ) ![Prisma](https://img.shields.io/badge/Prisma-%23000B20.svg?style=for-the-badge&logo=prisma&logoColor=white)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+ ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 
 # 📊 GitHub Stats:
 
