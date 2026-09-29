@@ -1,13 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit5885&label=Profile%20views&color=0e75b6&style=flat" alt="Amit Rana" /> </p>
 
 <h1 align="center">Hi 👋, I'm Amit Rana</h1>
-👨‍💻 Full-Stack Developer | Rust 🦀 | TypeScript | React | AI
+👨‍💻 Software Engineer building high-performance, real-time & AI-powered software.
 
-Building high-performance web applications, real-time systems, and AI-powered products.
+I enjoy turning complex ideas into clean, scalable software — from backend services and modern web interfaces to real-time communication and cloud-native applications.
 
-I enjoy turning complex ideas into clean, scalable software — from Rust/Axum backends and modern React frontends to real-time communication and cloud-ready applications.
-
-🔭 Currently exploring: AI • LLMs • Distributed Systems • Rust • Developer Tools
+🔭 Exploring AI/LLMs, distributed systems & developer tools.
 
 
 - 📫 How to reach me **amit5885rana@gmail.com**
